@@ -27,7 +27,7 @@ Portal web para compra-venta de propiedades de lujo e incluye un CRUD para los a
 1. **Clona el repositorio:**
 
    ```bash
-   git clone [https://github.com/shaaarly/arkanoid.git](https://github.com/Shaaarly/AppSalon.git)
+   git clone https://github.com/Shaaarly/AppSalon.git
    
 2. **Abre el proyecto con tu IDE favorito:**
 
