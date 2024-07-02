@@ -27,12 +27,15 @@ Portal web para compra-venta de propiedades de lujo e incluye un CRUD para los a
 1. **Clona el repositorio:**
 
    ```bash
+   git clone git@github.com:Shaaarly/AppSalon.git
+   ```
+   o
+   ```bash
    git clone https://github.com/Shaaarly/AppSalon.git
-   
-2. **Abre el proyecto con tu IDE favorito:**
+
+3. **Abre el proyecto con tu IDE favorito:**
 
    Botón derecho en la carpeta del proyecto y dale a abrir con y elige tu IDE
-
 
 ## USO
 
