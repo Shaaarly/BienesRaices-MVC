@@ -88,10 +88,6 @@ Revisaré tu Pull Request lo antes posible. ¡Apreciamos todas las contribucione
 ## Agradecimientos
 
 Este proyecto ha sido desarrollado gracias al curso de Udemy: [Desarrollo de Aplicaciones Web Completo](https://www.udemy.com/course/desarrollo-web-completo-con-html5-css3-js-php-y-mysql)
-
-- [Midu en YouTube](https://www.youtube.com/c/midudev)
-- [Midu en Twitter](https://twitter.com/midudev)
-
 ## Contacto
 
 Carles Tur - @tccarles - carlesturcardona@gmail.com
